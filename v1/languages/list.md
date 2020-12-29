@@ -1,6 +1,6 @@
 # List
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="get" host="https://api.cakes.com" path="/v1/language/list" %}
 {% api-method-summary %}
 List of all languages
 {% endapi-method-summary %}
